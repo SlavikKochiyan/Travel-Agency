@@ -1,0 +1,20 @@
+.head_image{
+    width: 1440px;
+    height: 1200px;
+    flex-shrink: 0;
+}
+.head_menu{
+    
+}
+ul.header_menu{
+    display: flex;
+}
+.header_menu li{
+    list-style: none;
+    margin: 50px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
